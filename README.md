@@ -15,5 +15,5 @@ Diseño de personajes: Jesús Barrón
 
 Diseño de armas: Alejandro Bórquez
 
-Música: Ivan Castillo
+Música y sonido: Ivan Castillo
 
